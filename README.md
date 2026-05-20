@@ -48,5 +48,5 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=efekanefos&show_icons=true&locale=en&layout=compact&theme=default" alt="efekan top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=efekan-efe&show_icons=true&locale=en&layout=compact&theme=default" alt="efekan top languages" />
 </p>
